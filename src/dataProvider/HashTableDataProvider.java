@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 public class HashTableDataProvider {
 
 		
-		public static ExcelReader excel = null;
+/*		public static ExcelReader excel = null;
 
 		
 		@Test(dataProvider="getData")
@@ -63,5 +63,5 @@ public class HashTableDataProvider {
 			
 		}
 		
-
+*/
 }
